@@ -1,1 +1,3 @@
-# Persian-Text-Summarizer
+# text summarizer 
+
+Persian Text Summarizer
